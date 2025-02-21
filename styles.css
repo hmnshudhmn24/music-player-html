@@ -1,0 +1,41 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+.player-container {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px gray;
+    width: 300px;
+    margin: auto;
+}
+.controls button {
+    margin: 5px;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+    background: blue;
+    color: white;
+    border-radius: 5px;
+}
+.controls button:hover {
+    background: darkblue;
+}
+ul {
+    list-style: none;
+    padding: 0;
+}
+li {
+    cursor: pointer;
+    padding: 5px;
+    background: lightgray;
+    margin: 5px 0;
+    border-radius: 5px;
+}
+li:hover {
+    background: gray;
+    color: white;
+}
