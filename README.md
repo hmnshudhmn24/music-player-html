@@ -16,8 +16,3 @@ A simple **Music Player** that allows users to play, pause, and switch between s
 1. Open `index.html` in a web browser.
 2. Click **Play** to start the music.
 3. Use **Next** and **Previous** to switch tracks.
-
-### Author
-Created by **Zyler**
-
-Enjoy the music! 🎵
